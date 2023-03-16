@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/kbp7958/kbp/issues"
   },
-  "homepage": "https://github.com/kbp7958/kbp#readme"
+  "homepage": "https://github.com/kbp7958/kbp#readme",
+  "dependencies": {
+    "solc": "^0.8.19",
+    "truffle": "^5.8.0",
+    "ts-node": "^10.9.1",
+    "types": "^0.1.1"
+  }
 }
